@@ -1,4 +1,8 @@
-# sieciobywatel-ng.github.io
+---
+title: Okruchy z sieci
+layout: default
+---
+
 
 ```
  ░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
