@@ -1,6 +1,6 @@
 ---
 title: Okruchy z sieci
-layout: default
+description: (...)
 ---
 
 
